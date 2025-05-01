@@ -63,6 +63,6 @@ AI for recruitment is a fast-growing tech domain. Our system is designed to redu
 ## 💾 Installation
 
 ```bash
-git clone https://github.com/anukalp-mishra/Resume-Screening.git
+git clone https://github.com/SakeAnila/Resume-Screening.git
 cd Resume-Screening
 pip install -r requirements.txt
